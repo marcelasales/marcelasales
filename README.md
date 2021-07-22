@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcelasales
-- 👀 I’m interested in manga, geek stuff, learning new things (:
+- 👀 I’m interested in manga, geek stuff and learning new things (:
 - 🌱 I’m currently learning python, machine learning, c#. TRYING
 - 💞️ I’m looking to collaborate on scrum teams, fintechs, yadda yadda.
 - 📫 How to reach me marcelasales.sm@gmail.com
